@@ -1,7 +1,7 @@
 {
 	"name": "toyfoundry/php-resque-ex",
 	"type": "library",
-	"version": "1.3.1",
+	"version": "1.3.2",
 	"description": "Redis backed library for creating background jobs and processing them later. PHP port based on resque for Ruby.",
 	"keywords": ["job", "background", "redis", "resque", "queue", "php"],
 	"homepage": "http://www.github.com/kamisama/php-resque-ex/",
